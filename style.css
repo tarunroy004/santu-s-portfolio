@@ -171,7 +171,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("/IMG-20240120-WA0001.jpg") no-repeat center;
+    background: url("./IMG-20240120-WA0001.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -265,7 +265,7 @@ section .title::after{
     position: relative;
 }
 .about .about-content .left .img{
-    background: url("/379086480_1082897559367366_7966507860725335469_n.jpg") no-repeat center;
+    background: url("./379086480_1082897559367366_7966507860725335469_n.jpg") no-repeat center;
     background-size: cover;
     height: 500px;
     width: 400px;
@@ -1085,7 +1085,7 @@ footer .wave#wave4
 /* pr loader design  */
 #preloader
 {
-    background:url("img/e3a.gif") no-repeat center ;
+    background:url(".img/e3a.gif") no-repeat center ;
     background-size: 15%;
     filter: invert(100%);
     background-color: #fff;
